@@ -101,3 +101,83 @@ font-family: "Work Sans";
 font-size: 20px;
 font-weight: 500;
 }
+/* always keep a positive mindset */
+.pot{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+     background-repeat: no-repeat;
+     padding-left: 00px; 
+     margin: 150px;
+     
+     /* background-image: url('../images/gradient1.png'); */ */
+    width: 1140px;
+height: 300px;
+flex-shrink: 0;
+}
+.always{
+    color: #FFF;
+font-family: "Work Sans";
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.pot-banner{
+    padding: 20px 500px 50px 50px;
+}
+.footer{
+    background:  #151414;
+    margin: 0px;
+}
+.footer-column{
+    /* display: flex; */
+    justify-content: space-between;
+    padding: 80px;
+}
+.footer-banner{
+    display: flex;
+}
+.footer-data{
+    color: #FFF;
+font-family: "Work Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+}
+.social-link a{
+    margin-right: 20px;
+
+
+}
+.subscribe{
+    color: #FFF;
+font-family: "Work Sans";
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.email{
+    border-radius: 8px;
+border: 1px solid #FFF;
+background: #151414;
+width: 200px;
+height: 50px;
+flex-shrink: 0;
+padding: 10px 10px 10px 10px;
+}
+.subscribe-btn{
+    border-radius: 8px;
+background: #005FAC;
+width: 200px;
+height: 40px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 1000;
+line-height: normal;
+width: 98.061px;
+}
